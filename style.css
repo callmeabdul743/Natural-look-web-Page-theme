@@ -42,11 +42,14 @@ img{
 }
 .nav1 h1{
     color:white;
+    font-size: 45px;
+    cursor: pointer;
 }
 .nav2{
     margin:30px 30px;
 }
 .nav2 a{
+    font-size: 19px;
     display: inline-block;
     padding: 10px 15px;
     border:2px solid transparent;
@@ -66,10 +69,11 @@ img{
 .contant p{
     padding: 20px 0px;
     font-size: 18px;
+    color: rgba(255, 255, 255, 0.897);
 }
 .contant h2{
     color:white;
-    font-size: 50px;
+    font-size: 35px;
 }
 .contant a{
     color: white;
