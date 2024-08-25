@@ -15,4 +15,16 @@ html, body{
     display: flex;
     align-items: center;
     justify-content: center;
+    position: relative;
+}
+.main2{
+    width: 80%;
+    height: 80%;
+    backdrop-filter: blur(50px);
+}
+img{
+    position: absolute;
+    right: 0;
+    width: 60%;
+    bottom:100px;
 }
